@@ -1,0 +1,2 @@
+These are java servlet files
+The servlet receives signals from client application then stores them in MySQL database.

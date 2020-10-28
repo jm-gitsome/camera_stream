@@ -1,0 +1,2 @@
+These are scripts that control the servo motor mounted by webcam
+The main script uses multithreading to access control signals from a database and update position of motor
